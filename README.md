@@ -1,4 +1,4 @@
 helvert
 =======
 
-A NodeJS framework in CoffeeScript based on Express.js
+A node.js micro-framework in CoffeeScript based on Express.js
